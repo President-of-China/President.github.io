@@ -147,7 +147,7 @@ function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterat
 
 
 var onClickLogo = function onClickLogo() {
-  window.open = 'https://scratch.mit.edu';
+  window.open('https://fengke.best','_blank');
 };
 
 var handleTelemetryModalCancel = function handleTelemetryModalCancel() {
